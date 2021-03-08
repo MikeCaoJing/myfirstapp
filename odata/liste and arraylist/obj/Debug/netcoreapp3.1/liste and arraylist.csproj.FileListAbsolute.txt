@@ -1,0 +1,13 @@
+E:\Meine Project\odata\liste and arraylist\bin\Debug\netcoreapp3.1\liste and arraylist.exe
+E:\Meine Project\odata\liste and arraylist\bin\Debug\netcoreapp3.1\liste and arraylist.deps.json
+E:\Meine Project\odata\liste and arraylist\bin\Debug\netcoreapp3.1\liste and arraylist.runtimeconfig.json
+E:\Meine Project\odata\liste and arraylist\bin\Debug\netcoreapp3.1\liste and arraylist.runtimeconfig.dev.json
+E:\Meine Project\odata\liste and arraylist\bin\Debug\netcoreapp3.1\liste and arraylist.dll
+E:\Meine Project\odata\liste and arraylist\bin\Debug\netcoreapp3.1\liste and arraylist.pdb
+E:\Meine Project\odata\liste and arraylist\obj\Debug\netcoreapp3.1\liste and arraylist.csprojAssemblyReference.cache
+E:\Meine Project\odata\liste and arraylist\obj\Debug\netcoreapp3.1\liste and arraylist.AssemblyInfoInputs.cache
+E:\Meine Project\odata\liste and arraylist\obj\Debug\netcoreapp3.1\liste and arraylist.AssemblyInfo.cs
+E:\Meine Project\odata\liste and arraylist\obj\Debug\netcoreapp3.1\liste and arraylist.csproj.CoreCompileInputs.cache
+E:\Meine Project\odata\liste and arraylist\obj\Debug\netcoreapp3.1\liste and arraylist.dll
+E:\Meine Project\odata\liste and arraylist\obj\Debug\netcoreapp3.1\liste and arraylist.pdb
+E:\Meine Project\odata\liste and arraylist\obj\Debug\netcoreapp3.1\liste and arraylist.genruntimeconfig.cache
